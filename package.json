@@ -1,0 +1,25 @@
+{
+  "name": "equal-sides",
+  "version": "1.0.0",
+  "description": "- [1. Getting started](#1-getting-started) - [2. Challenge](#2-challenge)   - [2.1. Examples](#21-examples)   - [2.2. Testing your solution](#22-testing-your-solution)   - [2.3. Submitting your solution](#23-submitting-your-solution)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrelellis/equal-sides.git"
+  },
+  "author": "Andre Lellis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrelellis/equal-sides/issues"
+  },
+  "homepage": "https://github.com/andrelellis/equal-sides#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^6.1.0",
+    "gulp": "^4.0.2",
+    "mocha": "^6.2.0"
+  }
+}
