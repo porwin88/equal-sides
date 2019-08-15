@@ -4,7 +4,7 @@
 - [2. Challenge](#2-challenge)
   - [2.1. Examples](#21-examples)
   - [2.2. Testing your solution](#22-testing-your-solution)
-  - [2.3. Submitting your solution](#23-submitting-your-solution)
+- [3. Submitting your solution](#23-submitting-your-solution)
 
 ## 1. Getting started
 `https://github.com/andrelellis/equal-sides.git`
@@ -27,6 +27,6 @@ findIndex([0,10,-8,2]) // should return -1
 ### 2.2. Testing your solution
 To test your solution, run `npm test` in the root directory to run the automated tests.
 
-### 2.3. Submitting your solution
+## 3. Submitting your solution
 
 If you're working on a forked repo, push your changes to your forked repo and submit a pull request to this repo.
