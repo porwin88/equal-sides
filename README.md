@@ -1,4 +1,4 @@
-# Algorith challenge // Equal Sides
+# Algorithm challenge // Equal Sides
 
 - [1. Getting started](#1-getting-started)
 - [2. Challenge](#2-challenge)
